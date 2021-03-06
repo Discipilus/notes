@@ -1,3 +1,5 @@
 # notes
 
-Install 'Xi markup language' extention in VSCode
+Markdown syntax is used to write the docs
+
+
